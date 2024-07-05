@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @haydenfirv
+- 👋 Hi, I’m @haydenfirv!
 - 👀 I’m interested in Digital forensics, Cyber security, Vulnerability research
 - 🌱 I’m currently learning Cloud security, Container security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My Learning Blog, https://haydenfirv.gitbook.io/cybersecurity
 
 <!---
 haydenfirv/haydenfirv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
